@@ -36,43 +36,9 @@
               "collectionId": "Success_Actions",
               "confirmBeforeExecute": false,
               "pluginType": "JS",
-              "jsonPathKeys": [
-                "() => {\n  getSegmentSFOpportunities.run().then(() => {\n    getSegmentSFAccounts.run();\n  });\n}"
-              ],
-              "timeoutInMillisecond": 10000
-            },
-            {
-              "id": "Success__$getAllCustomerSegments$_getSegmentSFCustomerSegments",
-              "name": "_$getAllCustomerSegments$_getSegmentSFCustomerSegments",
-              "confirmBeforeExecute": false,
-              "pluginType": "DB",
               "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
-            }
-          ],
-          [
-            {
-              "id": "Success__$getSegmentSFOpportunities$_getSegmentSFOpportunitiesModule",
-              "name": "_$getSegmentSFOpportunities$_getSegmentSFOpportunitiesModule",
-              "confirmBeforeExecute": false,
-              "pluginType": "DB",
-              "jsonPathKeys": [
-                "getSegmentSFOpportunities.inputs.columns"
-              ],
-              "timeoutInMillisecond": 10000
             },
-            {
-              "id": "Success__$getSegmentSFUsers$_getSegmentSFUsersModule",
-              "name": "_$getSegmentSFUsers$_getSegmentSFUsersModule",
-              "confirmBeforeExecute": false,
-              "pluginType": "DB",
-              "jsonPathKeys": [
-                "getSegmentSFUsers.inputs.columns"
-              ],
-              "timeoutInMillisecond": 10000
-            }
-          ],
-          [
             {
               "id": "Success_getSegmentSFProductData",
               "name": "getSegmentSFProductData",
