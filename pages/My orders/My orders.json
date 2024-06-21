@@ -1,0 +1,34 @@
+{
+  "gitSyncId": "667535ca9cdc3910f5a5bf79_390b64a7-9a14-4337-be78-3dd0e4bca3b8",
+  "unpublishedPage": {
+    "isHidden": false,
+    "layouts": [
+      {
+        "dsl": {
+          "backgroundColor": "none",
+          "bottomRow": 1410.0,
+          "canExtend": true,
+          "containerStyle": "none",
+          "detachFromLayout": true,
+          "dynamicBindingPathList": [],
+          "leftColumn": 0.0,
+          "minHeight": 1910.0,
+          "parentColumnSpace": 1.0,
+          "parentRowSpace": 1.0,
+          "positioning": "fixed",
+          "rightColumn": 1160.0,
+          "snapColumns": 64.0,
+          "snapRows": 66.0,
+          "topRow": 0.0,
+          "type": "CANVAS_WIDGET",
+          "useAutoLayout": false,
+          "version": 89.0,
+          "widgetId": "0",
+          "widgetName": "MainContainer"
+        }
+      }
+    ],
+    "name": "My orders",
+    "slug": "my-orders"
+  }
+}

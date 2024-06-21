@@ -26,6 +26,22 @@
   "icon": "basketball",
   "pages": [
     {
+      "id": "Submit new order",
+      "isDefault": false
+    },
+    {
+      "id": "Home Page",
+      "isDefault": false
+    },
+    {
+      "id": "Admin",
+      "isDefault": false
+    },
+    {
+      "id": "My orders",
+      "isDefault": false
+    },
+    {
       "id": "Dashboard",
       "isDefault": true
     },

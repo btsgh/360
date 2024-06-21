@@ -1,0 +1,36 @@
+{
+  "gitSyncId": "667535ca9cdc3910f5a5bf79_846419f8-aa16-4935-804e-1c9b6f738fc3",
+  "unpublishedPage": {
+    "isHidden": false,
+    "layouts": [
+      {
+        "dsl": {
+          "backgroundColor": "none",
+          "bottomRow": 980.0,
+          "canExtend": true,
+          "containerStyle": "none",
+          "detachFromLayout": true,
+          "dynamicBindingPathList": [],
+          "leftColumn": 0.0,
+          "minHeight": 930.0,
+          "mobileBottomRow": 1738.0,
+          "mobileTopRow": 0.0,
+          "parentColumnSpace": 1.0,
+          "parentRowSpace": 1.0,
+          "positioning": "fixed",
+          "rightColumn": 1160.0,
+          "snapColumns": 64.0,
+          "snapRows": 66.0,
+          "topRow": 0.0,
+          "type": "CANVAS_WIDGET",
+          "useAutoLayout": false,
+          "version": 89.0,
+          "widgetId": "0",
+          "widgetName": "MainContainer"
+        }
+      }
+    ],
+    "name": "Home Page",
+    "slug": "home-page"
+  }
+}
